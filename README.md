@@ -52,18 +52,6 @@ WebRPA 是一款完全开源、可离线运行的可视化机器人流程自动�
 ---
 
 <p align="center">
-  <a href="https://helodata.com?ref=webrpa">
-    <img src="png/Helodata_CN.png" width="100%" alt="Helodata 全球代理基础设施" />
-  </a>
-</p>
-
-[Helodata](https://helodata.com?ref=webrpa) 为AI、Web Scraping与自动化应用提供全球代理基础设施，覆盖195+ 国家和地区，提供住宅代理、静态住宅代理、不限量住宅代理、移动代理及数据中心代理，涵盖8000万+ 合规授权住宅IP、130万+ ASN 静态住宅IP以及3G/4G/5G移动IP，满足从日常自动化到大流量数据采集的不同需求。
-
-[注册使用优惠码 WebRPA，可享专属九折！](https://helodata.com?ref=webrpa)
-
----
-
-<p align="center">
   <a href="https://www.ipwo.net/?ref=GitHubWebRPA">
     <img src="png/IPWO.png" width="100%" alt="IPWO 住宅代理" />
   </a>
