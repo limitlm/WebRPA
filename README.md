@@ -52,18 +52,6 @@ WebRPA 是一款完全开源、可离线运行的可视化机器人流程自动�
 ---
 
 <p align="center">
-  <a href="https://www.ipwo.net/?ref=GitHubWebRPA">
-    <img src="png/IPWO.png" width="100%" alt="IPWO 住宅代理" />
-  </a>
-</p>
-
-[IPWO](https://www.ipwo.net/?ref=GitHubWebRPA) 住宅代理为 WebRPA 自动化任务提供多地区网络访问支持，适用于网页自动化、数据采集、网站访问及网络环境测试等场景。
-
-覆盖 195+ 国家地区的住宅 IP 资源，用户可根据业务需求选择相应地区的 IP，为不同自动化任务提供更灵活的网络环境配置。**免费测试入口，90折扣码：0204**
-
----
-
-<p align="center">
   <a href="https://www.rapidproxy.io/?ref=WebRPA">
     <img src="png/Rapidproxy.png" width="100%" alt="RapidProxy 代理网络" />
   </a>
